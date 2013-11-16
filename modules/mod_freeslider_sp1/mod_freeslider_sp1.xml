@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="2.5" client="site" method="upgrade">
+	<name>FreeSlider SP1</name>
+	<author>JoomShaper.com</author>
+	<creationDate>Apr 2011</creationDate>
+	<copyright>Copyright (C) 2010 - 2013 JoomShaper.com. All rights reserved.</copyright>
+	<license>GNU/GPL V2 or later</license>
+	<authorEmail>support@joomshaper.com</authorEmail>
+	<authorUrl>www.joomshaper.com</authorUrl>
+	<version>1.7.0</version>
+	<description>Free content slider module for joomla</description>
+	<files>
+		<filename module="mod_freeslider_sp1">mod_freeslider_sp1.php</filename>
+		<folder>tmpl/</folder>
+		<folder>language/</folder>
+		<folder>assets/</folder>
+		<filename>helper.php</filename>
+		<filename>index.html</filename>
+	</files>
+	
+	<languages>
+		<language tag="en-GB">language/en-GB.mod_freeslider_sp1.ini</language>
+	</languages>
+	
+	<config>
+		<fields name="params">
+			<fieldset name="DATA_SOURCE">
+				<field name="catid" type="category" extension="com_content" multiple="true" size="10" default="" label="CATEGORY" description="CATEGORY_DESC" />	
+				<field name="count" type="text" default="3" label="COUNT" description="COUNT_DESC" />
+				<field name="ordering" type="list" default="a.title" label="ORDER" description="ORDER_DESC">
+					<option value="a.ordering">JOOMLA_ORDERING</option>
+					<option value="a.publish_up">PUBLISHED_UP</option>
+					<option value="a.hits">HITS</option>
+					<option value="a.title">TITLE</option>
+					<option value="a.id">ID</option>
+					<option value="a.alias">ALIAS</option>
+					<option value="a.created">CREATED</option>
+					<option value="a.modified">MODIFIED</option>
+				</field>
+				<field name="ordering_direction" type="list" default="ASC" label="ORDERING_FILTER" description="ORDERING_FILTER_DESC">
+					<option value="DESC">FILTER_DESC</option>
+					<option value="ASC">FILTER_ASC</option>
+				</field>
+				<field name="user_id" type="list" default="0" label="AUTHORS" description="AUTHORS_DESC">
+					<option value="0">ANYONE</option>
+					<option value="by_me">BYME</option>
+					<option value="not_me">NOTBYME</option>
+				</field>
+				<field name="show_featured" type="list" default="" label="FEATURED" description="FEATURED_DESC">
+					<option value="">JSHOW</option>
+					<option value="0">JHIDE</option>
+					<option value="1">ONLY_SHOW_FEATURED</option>
+				</field>				
+				<field name="showtitle" type="radio" class="btn-group" default="1" label="SHOWTITLE" description="SHOWTITLE_DESC">
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>
+				<field name="titlelinked" type="radio" class="btn-group" default="0" label="TITLELINKED" description="TITLELINKED_DESC">
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>		
+				<field name="showarticle" type="radio" class="btn-group" default="1" label="SHOWARTICLE" description="SHOWARTICLE_DESC">
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>		
+				<field name="showimage" type="radio" class="btn-group" default="1" label="SHOWIMAGE" description="SHOWIMAGE_DESC">
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>
+				<field name="imagelinked" type="radio" class="btn-group" default="1" label="IMAGELINKED" description="IMAGELINKED_DESC">
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>		
+				<field name="showmore" type="radio" class="btn-group" default="1" label="SHOWMORE" description="SHOWMORE_DESC">
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>		
+				<field name="moretext" type="text" default="Read More..." label="MORETEXT" description="MORETEXT_DESC" />	
+				
+				<field name="titleas" type="radio" class="btn-group" default="1" label="TITLEAS" description="TITLEAS_DESC">
+					<option value="0">WLIMIT</option>
+					<option value="1">CLIMIT</option>
+					<option value="2">NOLIMIT</option>
+				</field>		
+				<field name="titlelimit" type="text" default="20" label="TITLELIMIT" description="TITLELIMIT_DESC" />
+				<field name="desclimitas" type="radio" class="btn-group" default="0" label="DESCAS" description="DESCAS_DESC">
+					<option value="0">WLIMIT</option>
+					<option value="1">CLIMIT</option>
+					<option value="2">NOLIMIT</option>
+				</field>		
+				<field name="desclimit" type="text" default="30" label="DESCLIMIT" description="DESCLIMIT_DESC" />		
+			</fieldset>
+			
+			<fieldset name="SLIDES">
+				<field name="height" type="text" default="200" label="HEIGHT" description="HEIGHT_DESC" />			
+				<field name="showarrows" type="radio" class="btn-group" default="1" label="SHOWARROWS" description="SHOWARROWS_DESC">
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>
+				<field name="effects" type="list" default="cover-horizontal-fade" label="EFFECTS" description="EFFECTS_DESC">
+					<option value="slide-horizontal">slide-horizontal</option>
+					<option value="slide-vertical">slide-vertical</option>
+					<option value="cover-inplace">cover-inplace</option>
+					<option value="cover-inplace-fade">cover-inplace-fade</option>
+					<option value="cover-horizontal">cover-horizontal</option>
+					<option value="cover-horizontal-fade">cover-horizontal-fade</option>
+					<option value="cover-horizontal-push">cover-horizontal-push</option>
+					<option value="cover-vertical">cover-vertical</option>
+					<option value="cover-vertical-fade">cover-vertical-fade</option>
+					<option value="cover-vertical-push">cover-vertical-push</option>
+				</field>		
+				<field name="interval" type="text" default="5000" label="INTERVAL" description="INTERVAL_DESC" />
+				<field name="speed" type="text" default="1000" label="SPEED" description="SPEED_DESC" />
+				<field name="transition" type="list" default="Sine.easeOut" label="FXTRANS" description="FXTRANS_DESC">
+					<option value="linear">linear</option>
+					<option value="Quad.easeOut">Quad.easeOut</option>
+					<option value="Quad.easeIn">Quad.easeIn</option>
+					<option value="Quad.easeINOut">Quad.easeINOut</option>
+					<option value="Cubic.easeOut">Cubic.easeOut</option>
+					<option value="Cubic.easeIn">Cubic.easeIn</option>
+					<option value="Cubic.easeINOut">Cubic.easeINOut</option>
+					<option value="Quart.easeOut">Quart.easeOut</option>
+					<option value="Quart.easeIn">Quart.easeIn</option>
+					<option value="Quart.easeINOut">Quart.easeINOut</option>
+					<option value="Quint.easeOut">Quint.easeOut</option>
+					<option value="Quint.easeIn">Quint.easeIn</option>
+					<option value="Quint.easeINOut">Quint.easeINOut</option>
+					<option value="Expo.easeOut">Expo.easeOut</option>
+					<option value="Expo.easeIn">Expo.easeIn</option>
+					<option value="Expo.easeINOut">Expo.easeINOut</option>
+					<option value="Circ.easeOut">Circ.easeOut</option>
+					<option value="Circ.easeIn">Circ.easeIn</option>
+					<option value="Circ.easeINOut">Circ.easeINOut</option>
+					<option value="Sine.easeOut">Sine.easeOut</option>
+					<option value="Sine.easeIn">Sine.easeIn</option>
+					<option value="Sine.easeINOut">Sine.easeINOut</option>
+					<option value="Back.easeOut">Back.easeOut</option>
+					<option value="Back.easeIn">Back.easeIn</option>
+					<option value="Back.easeINOut">Back.easeINOut</option>
+					<option value="Bounce.easeOut">Bounce.easeOut</option>
+					<option value="Bounce.easeIn">Bounce.easeIn</option>
+					<option value="Bounce.easeINOut">Bounce.easeINOut</option>
+					<option value="Elastic.easeOut">Elastic.easeOut</option>
+					<option value="Elastic.easeIn">Elastic.easeIn</option>
+					<option value="Elastic.easeINOut">Elastic.easeINOut</option>
+				</field>
+			</fieldset>
+			
+			<fieldset name="ADVANCED">
+				<field name="moduleclass_sfx" type="text" default="" label="MODSFX" description="MODSFX_DESC" />			
+				<field name="cache" type="hidden" default="0"/>
+				<field name="module_cache" type="list" default="1" label="Caching" description="Select whether to cache the content of this module">
+					<option value="1">Use global</option>
+					<option value="0">NO caching</option>
+				</field>
+				<field name="cache_time" type="text" default="900" label="Cache Time" description="The time before the module is recached" />
+			</fieldset>
+		</fields>
+	</config>	
+</extension>

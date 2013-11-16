@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <categories>
+        <category id="1" title="Featured"/>
+        <category id="2" title="Articles"/>
+    </categories>
+    <articles>
+        <article id="1" category="1" title="Increase In Sales" alias="article" path="/Blog Posts/new-post-2">
+            <![CDATA[<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%" >
+        <p>Id nullam diam mi eget tellus tincidunt imperdiet est nullam mi proin eget. Ante phasellus fusce vitae velit ac sit ac aptent ante vehicula.  Vitae eget ipsum vitae a a phasellus felis nec. Urna faucibus eros et nam nisl sed aenean quis nunc vel mollis mauris nam vivamus et  eget volutpat. Nec mollis purus quis posuere duis velit donec morbi.  Lorem auctor lobortis sed conubia fringilla quam. Leo eros augue quisque. Varius ante ac pretium amet nunc diam fusce nec nunc curabitur.  Tempus ante aliquet sed nulla ipsum rutrum mi. Quis iaculis ut in mi vivamus imperdiet eros hac senectus. A feugiat auctor amet malesuada fusce.</p><p>Nisl ullamcorper orci duis et cursus nec nulla lacus.  At platea nibh non vulputate nulla ac nam hendrerit faucibus neque nisi augue ut metus malesuada orci lobortis. Tempus enim phasellus fusce ligula ultrices a platea lacus ligula. Vestibulum fusce quis augue. Enim nam morbi aenean fringilla interdum iaculis elit iaculis leo. Sapien et nulla jnteger blandit gravida enim. Praesent ullamcorper tellus ullamcorper ligula purus praesent aliquam mi. Sed fusce curae euismod turpis et quis tristique sit.   nunc vestibulum augue id imperdiet. Lorem per amet blandit. Mollis egestas tincidunt et sagittis tellus massa leo eu amet accumsan leo. Porttitor quis blandit felis leo dolor tincidunt nullam nam. Lacinia amet cubilia et sed pede. Quam eros dolor et ipsum curae.  Convallis quam posuere. Tellus vestibulum ultrices turpis euismod. Tempus luctus suscipit.</p><p>Per non eleifend fusce felis duis velit faucibus ante.  Morbi in at libero dapibus blandit donec tempus nibh. Curabitur non neque ipsum quam quam fusce. Eu et congue enim lacus egestas luctus sed ac nulla et donec. Nec libero nulla risus praesent.  Metus nec augue sagittis et vestibulum amet. Ac sem et suspendisse amet nascetur elementum sit. Fusce aliquet tincidunt leo tincidunt platea quisque mollis. Massa dui nulla ac elit vel tincidunt suscipit non metus dui mauris quis eget tortor malesuada mattis.  Urna velit justo a nisi. Vestibulum sed commodo curabitur ac dis phasellus proin risus magna mollis suspendisse purus pellentesque sed. Dolor velit vel posuere praesent sed nunc luctus. Fringilla  curabitur sagittis ac inceptos.  Quis lacus risus ac. Tristique etiam quis viverra volutpat potenti ut mauris leo.</p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="2" category="1" title="New Products Available" alias="article-1" path="/Blog Posts/new-post-1">
+            <![CDATA[<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%" >
+        <p>In at tortor porta vivamus id commodo adipiscing turpis. Cubilia adipiscing mauris suscipit cursus adipiscing. A quis sed fames suspendisse libero sit.  Fringilla eros mi est duis odio ut sem tempor placerat eget.  Mauris lorem vestibulum tellus eu. Tempus mi diam neque tincidunt dolor mauris. Ultricies blandit cursus dolor hac in et iaculis.  Lobortis eu condimentum lobortis eu aenean id sapien sit et. Egestas eu tellus platea elit imperdiet mollis viverra sit eleifend egestas nunc nec mollis aliquam non.  imperdiet ac  lobortis. Duis fames phasellus ac pede vestibulum neque non blandit augue cubilia eget jnteger pellentesque amet donec.  Egestas mauris pretium aliquam per est et neque.  Eget consectetuer dictum ligula ligula sed. Justo velit augue.  Per arcu libero pellentesque praesent mauris natoque porta. </p><p>Euismod nisl id turpis rhoncus mauris tellus metus egestas a fringilla leo. Vivamus hymenaeos pretium augue sed suspendisse odio condimentum. A nibh morbi et nibh etiam urna quis varius ut. Metus adipiscing dapibus tincidunt blandit interdum molestie ultrices quis augue quam faucibus nunc. Phasellus nonummy id duis orci ut aenean sollicitudin. Varius sit viverra eleifend blandit mauris ut in. Tincidunt vitae taciti. Massa ad praesent vel nec dui turpis hac felis nulla nulla   leo. Proin libero tortor sit maecenas neque arcu.  Turpis ut fermentum fusce pretium ut praesent suscipit eu. Eros mollis egestas pulvinar ac elit. </p><p>Sit pretium nunc non et in vestibulum cursus vulputate. Nullam et ante ac malesuada eros arcu gravida enim pellentesque cubilia rhoncus sed nulla massa nunc elit ut.  Nunc parturient non elit ultrices dictum vestibulum dictumst eget. Libero in placerat libero.  Et vestibulum sit vitae arcu ut ante mollis egestas nisi libero.  Nec ac luctus mollis justo eget lobortis leo. Volutpat quis ipsum ipsum curabitur quis pretium nunc sed augue nullam.  A in viverra lorem phasellus nisl sapien morbi ligula.  Vulputate sem  egestas tincidunt ut. Maecenas fermentum sed. Mollis fusce vitae nec pellentesque hendrerit et enim fringilla neque ac.  Nunc at suspendisse mauris donec curabitur sed pretium et.  Lorem mauris sagittis cras risus. Potenti odio semper vel leo nec. Sed felis nullam ipsum. Et suspendisse suspendisse arcu bibendum.  In mollis dolor turpis.</p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="3" category="1" title="Latest Update" alias="article-2" path="/Blog Posts/new-post">
+            <![CDATA[<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%" >
+        <p><span style="font-weight: bold;">Cras platea eros pellentesque ut eros viverra a tellus phasellus urna eget sagittis ipsum diam. </span></p><p>Vivamus massa eget quam odio sodales in etiam nisl sed. Tincidunt sodales blandit phasellus magna enim mauris nec mauris placerat enim consectetuer sit posuere cras.  Commodo pede elementum amet ac in ipsum eget eget magna venenatis. Sed posuere ultrices ante.  Dui venenatis phasellus vestibulum in etiam aenean ut enim ante.  Augue eros leo tellus ultricies sed feugiat.  Consectetuer praesent feugiat ullamcorper dolor quis elementum egestas.  Vestibulum tellus consectetuer aliquet justo viverra.  Mattis justo pretium  aliquam velit. Aenean libero augue ut. Ut feugiat urna donec eu pellentesque habitasse nam magna ultricies erat.  Vitae sagittis iaculis adipiscing sed praesent lectus ut ac. Sed risus mollis eu pretium eget. Fermentum nec ac etiam ipsum ut. Hendrerit varius nulla. Fringilla pulvinar cursus phasellus fusce. Volutpat mollis sit mi.</p><p>Justo mollis semper metus nisi nec justo ante iaculis.  Arcu quam mauris quis sem elementum id nec morbi nec. Volutpat donec imperdiet ut enim viverra.  Arcu adipiscing sem ante arcu aliquam vestibulum leo ipsum.  Nec malesuada orci fermentum nisi. Ultrices praesent euismod leo imperdiet leo. Nisi suscipit elementum aliquam ligula ante neque. Id odio tellus rhoncus nec scelerisque ac ut in nunc libero. Aliquam lacus commodo elementum consectetuer fringilla accumsan consectetuer proin leo lobortis amet eu. Orci quis phasellus nec. Augue turpis sem vestibulum orci id est vestibulum felis id praesent tempor velit vivamus velit ridiculus sed. Venenatis eu cursus id aliquam hendrerit viverra. Vulputate cras libero dolor eu feugiat dis. Vel cras pede metus. Ut sem arcu purus cursus a maecenas molestie etiam lacus et.</p><p>Pellentesque imperdiet eu nonummy dapibus orci porttitor pulvinar urna non. Suspendisse volutpat mollis turpis dolor iaculis diam sit lectus. Tincidunt vestibulum urna non at mattis mollis. Odio hac non ac sapien pellentesque in viverra sollicitudin malesuada dapibus posuere ut ultricies.  Quis elementum mauris et vel et pede pretium morbi ac. Ac auctor etiam eleifend eu laoreet vitae ut nec. Auctor fusce justo nec. Ac accumsan condimentum consequat feugiat ac lacus fringilla sit. Dictumst quam diam ut commodo ligula semper.  Quis eget leo vivamus velit torquent ligula amet id lacus. Auctor nisi felis volutpat mi eget ac.</p><p>Sed purus morbi cras aenean cursus tristique ut augue vulputate.  Egestas volutpat eros ultricies pellentesque nullam odio sed.  Suscipit vitae ut eget malesuada nunc   magna sed nisl eu suscipit.  Nec ipsum vivamus velit mauris augue. Posuere tristique eget vitae eget et primis mi in et.  Leo ante eu ante ligula congue eget est. Consectetuer in augue libero tellus  consequat nunc ut. Ligula orci quis vestibulum interdum pede dui elit urna in enim ac.  Egestas vestibulum vestibulum posuere eros quis nunc convallis in orci. Rutrum in ipsum nunc ut eros a velit at felis nascetur duis justo. Orci felis libero in et velit sed eu arcu nec nisl euismod risus rutrum quisque mi nec felis velit. Proin risus in et at rhoncus iaculis libero quis orci proin vehicula ac ipsum morbi. Vel pede rutrum sem. Orci id sem eget vestibulum ipsum enim quis fusce quam rutrum. In fusce fusce ipsum blandit ligula sed interdum eu id orci netus nec. Ipsum in donec et proin eu pulvinar fringilla nunc libero molestie. Sagittis arcu nibh malesuada nisi justo ante duis. Purus elit quisque ac blandit  odio ante placerat libero turpis.</p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="4" category="2" title="Principal" alias="article-3" path="/principal">
+            <![CDATA[<div class="art-content-layout-wrapper" style="margin-top: 10px;margin-bottom: 10px;">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:55%" >
+        <img width="350" height="233" src="images/template-content/shutterstock_9220543.jpg" alt="">
+    </div><div class="art-layout-cell" style="padding-top: 0px;padding-right: 20px;padding-bottom: 0px;padding-left: 15px; width:45%" >
+        <p><span style="font-weight: bold;">Libero sed dapibus faucibus conubia non nunc senectus dolor sodales arcu nulla sagittis duis. Turpis sed varius sagittis sagittis posuere eu  diam ut praesent libero at orci.</span></p><p>Commodo laoreet turpis placerat sapien suspendisse dui. Vitae quam leo aliquam vestibulum cras praesent ante urna imperdiet amet ac conubia urna malesuada etiam donec.</p><p>Ac lobortis ante ut vestibulum diam curabitur venenatis quisque.  Nisi quam ante leo nisl leo.Et pretium donec libero viverra ligula ligula. Sed lectus turpis ligula quam ante et. Nisl leo felis ut praesent malesuada quisque.</p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:55%" >
+        <h3>Website Updates</h3><ul style="margin-top: 1em; margin-bottom: 1em; margin-left: 2em;"><li><p><span style="font-weight: bold;">Ac curabitur mauris. </span><br><span style="font-style: italic;">Tellus turpis. </span></p><p>Blandit nonummy taciti nullam platea praesent pharetra tempor. Phasellus fusce nulla auctor senectus lorem et. Sodales ultrices donec gravida nulla nec sit. Faucibus fusce vitae vestibulum nam. Sagittis lorem nec lobortis mauris diam id nunc turpis egestas quam. </p><br></li><li><p><span style="font-weight: bold;">Consectetuer sed auctor.</span><br><span style="font-style: italic;">Mi leo ut id ut.</span></p><p>A metus platea rhoncus rutrum massa eget mauris mollis. Pretium id ligula nunc ipsum quam nisi viverra lacus ligula enim volutpat vel velit aliquam sed dignissim cras. Etiam ligula nec condimentum jnteger sagittis tincidunt ac ac dui.</p></li></ul>
+    </div><div class="art-layout-cell" style="color: #1B1D1D; background: #F7F7F7; padding-right: 20px;padding-left: 15px; width:45%" >
+        <h3>Collection Updates</h3><ul><li><span style="font-weight: bold;">Habitasse vivamus. </span><br>      Vestibulum suspendisse nisl iaculis eleifend lacinia.  Fringilla enim purus venenatis venenatis tristique nisl erat morbi elit ut quam justo habitant nascetur nostra.<br><br></li><li><span style="font-weight: bold;">Luctus eros arcu vitae.</span><br>      Primis fermentum ac rhoncus rhoncus. Rhoncus dolor in sociis morbi tincidunt neque tellus in scelerisque. Placerat risus tellus quis nisi in posuere sapien turpis sed rhoncus nunc donec elit ut nunc facilisi quisque.  Eu proin justo ut ipsum nec lacinia elementum nisl condimentum ac.</li></ul>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="5" category="2" title="Catálogo" alias="article-4" path="/catalogo">
+            <![CDATA[<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%" >
+        <p><span style="font-weight: bold;">Mauris eleifend euismod donec sed nullam auctor.</span></p><p>Suscipit nec urna vestibulum in nibh convallis aliquam. Per et cras ut fusce posuere scelerisque amet orci augue malesuada morbi odio adipiscing nunc ut odio quisque.  Urna hendrerit a volutpat ante habitasse nisi vitae ut magna ante.</p>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-bottom: 10px;">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" src="images/template-content/tshirt01.jpg" border="0" width="150" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:75%" >
+        <h3>Men's T-Shirt</h3><p>Sed in mollis porttitor pellentesque congue id phasellus posuere.  Posuere pellentesque rutrum. Ipsum nec fermentum hendrerit amet viverra aliquet vestibulum nam. Nullam libero semper pede nibh vel gravida nisi mattis.  Eu hendrerit consequat cursus nisi a orci faucibus sed leo. Ut lorem tortor aliquet dolor lorem tellus in.</p><a href="/catalog/mens-t-shirt.html" rel="mens-sweatshirt">Detalles »</a>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-bottom: 10px;">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" src="images/template-content/jeans01.jpg" border="0" width="150" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:75%" >
+        <h3>Men's Jeans</h3><p>Auctor pede turpis ultricies pellentesque ultricies eu morbi quis. Placerat elit eleifend amet. Sed suspendisse praesent enim tincidunt nibh nisl mauris sed sed.  Ac nibh nibh a quam nunc nunc vitae neque donec neque mi. Et eget quis et faucibus pretium id id nullam primis magna. Ut pellentesque ac ligula sagittis vitae enim.</p><a href="/catalog/mens-jeans.html" rel="mens-jeans">Detalles »</a>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-bottom: 10px;">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" src="images/template-content/wshirt01.jpg" border="0" width="150" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:75%" >
+        <h3>Women's Shirt</h3><p>A tempus etiam non cum id eu eget phasellus blandit fusce mollis.  Libero turpis nam ut libero. Consequat iaculis ante nisi dictum dui placerat enim praesent sem. Hendrerit praesent curabitur gravida a elementum dictum.  Eu sem  pede dui erat mauris amet praesent phasellus augue. Odio vestibulum donec neque ut nibh  amet nec.</p><a href="/catalog/womens-shirt.html" rel="womens-tshirt">Detalles »</a>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-bottom: 10px;">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" src="images/template-content/shoes01.jpg" border="0" width="150" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:75%" >
+        <h3>Women's Shoes</h3><p>Eros  vitae urna elit praesent eu morbi dolor et sagittis per non. Phasellus donec dolor magna. Imperdiet orci aenean ante dolor ullamcorper ligula nisl maecenas. Viverra et nunc lorem turpis laoreet euismod quam turpis. Maecenas nunc blandit velit pede feugiat nullam leo amet.  Pellentesque quam nibh rutrum vestibulum eget.</p><a href="/catalog/womens-shoes.html" rel="womens-shoes">Detalles »</a>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-bottom: 10px;">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" src="images/template-content/purse01.jpg" border="0" width="150" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:75%" >
+        <h3>Women's Purse</h3><p>Hendrerit vestibulum mi quam sociosqu tempus sagittis curae risus. Nulla pretium leo consequat. Varius odio faucibus pellentesque etiam pellentesque ligula quis.  Neque imperdiet iaculis rutrum blandit vitae adipiscing.  Eu eu sed sit libero nonummy eget sem venenatis vestibulum.  pellentesque ipsum libero conubia ut et mi. </p><a href="/catalog/womens-purse.html" rel="womens-purse">Detalles »</a>
+    </div>
+    </div>
+</div>
+</div>
+]]>
+        </article>
+        <article id="6" category="2" title="Men's T-Shirt" alias="article-5" path="/catalogo/mens-t-shirt">
+            <![CDATA[<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/tshirt01.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/tshirt02.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:50%" >
+        <p>Nullam eget justo et a tempor lacus amet massa eget in. Adipiscing tempor ac pellentesque donec eros turpis dui libero   eros inceptos nisl quisque purus phasellus mi. Nulla lorem mollis neque praesent vel laoreet tortor leo leo cras. Tincidunt blandit justo non. Quam enim massa nisi rutrum posuere curabitur in in tortor ligula. Eu morbi elit fusce duis habitant sed fusce.  Enim vestibulum feugiat nisi dolor nec tellus malesuada lacus lectus sit. Donec pretium orci at curae lacus ac feugiat augue nec.</p>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/tshirt03.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/tshirt04.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:50%" >
+        <p style="font-weight: bold;">Detalles<br></p><table class="art-article" border="0" cellspacing="0" cellpadding="0" style="width: 100%;"><tbody><tr><td>Sed.</td><td>Cras elit.</td></tr><tr><td>A blandit.</td><td>Eu id.</td></tr><tr><td>Nec duis.</td><td>Augue.</td></tr><tr><td>Colores</td><td>Donec morbi donec purus vitae blandit.</td></tr><tr><td>Quis.</td><td>32, 34, 36, 38, 40+</td></tr></tbody></table>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%" >
+        <p><span style="font-weight: bold;"><a href="Catalog.html" rel="catalog">« Atrás To Catálogo</a></span></p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="7" category="2" title="Men's Jeans" alias="article-6" path="/catalogo/mens-jeans">
+            <![CDATA[<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/jeans01.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/jeans02.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:50%" >
+        <p>Enim non ut et eu erat purus felis nulla risus amet id. Curabitur ut ullamcorper ligula ligula turpis viverra sagittis mi sem ut nec ipsum nullam tristique fusce urna. Elit imperdiet morbi tristique odio tortor ut sociis leo leo orci. Eu sed phasellus fusce amet. Dolor platea nisi pellentesque ullamcorper sapien auctor varius.  Fermentum hendrerit eget id cubilia morbi at. Dolor taciti morbi ut cras fusce nibh nisl proin vivamus a accumsan enim. Phasellus pellentesque nonummy lacus ornare imperdiet. </p>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/jeans03.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/jeans04.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:50%" >
+        <p style="font-weight: bold;">Detalles</p><table class="art-article" border="0" cellspacing="0" cellpadding="0" style="width: 100%;"><tbody><tr><td>Non.</td><td>Jeans</td></tr><tr><td>Curabitur.</td><td>Dolor.</td></tr><tr class="even"><td>Sed nisl.</td><td>Ipsum.</td></tr><tr><td>Colores</td><td>Ut aliquam.</td></tr><tr class="even"><td>Ac. </td><td>32, 34, 36, 38, 40+</td></tr></tbody></table>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%" >
+        <p><span style="font-weight: bold;"><a href="Catalog.html" rel="catalog">« Atrás To Catálogo</a></span></p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="8" category="2" title="Women's Shirt" alias="article-7" path="/catalogo/womens-shirt">
+            <![CDATA[<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/wshirt01.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/wshirt02.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:50%" >
+        <p>At vestibulum commodo quis eget in dolor nisi nunc nec. Nisi varius ante cursus sodales aenean eget ut in velit dolor tellus etiam mauris suscipit purus eleifend nibh. Quis nec mauris feugiat euismod non habitasse justo eget sagittis. Leo aptent vivamus   turpis. Sit libero tincidunt nec sagittis non purus egestas porta posuere. Egestas vestibulum tellus mi pretium arcu eu. Suspendisse odio quam tincidunt nonummy eget varius sed etiam arcu erat.  Tortor eu nulla magna  nonummy sagittis sed praesent. </p>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/wshirt03.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/wshirt04.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:50%" >
+        <p style="font-weight: bold;">Detalles</p><table class="art-article" border="0" cellspacing="0" cellpadding="0" style="width: 100%;"><tbody><tr><td>Sit.</td><td>Nisi.</td></tr><tr><td>Turpis ac.</td><td>Eget. </td></tr><tr><td>Dolor eu.</td><td>Sem. </td></tr><tr><td>Colores</td><td>Velit dui. </td></tr><tr><td>Quis.</td><td>Metus pede.</td></tr></tbody></table>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%" >
+        <p><span style="font-weight: bold;"><a href="Catalog.html" rel="catalog">« Atrás To Catálogo</a></span></p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="9" category="2" title="Women's Shoes" alias="article-8" path="/catalogo/womens-shoes">
+            <![CDATA[<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/shoes01.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/shoes02.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:50%" >
+        <p>Porttitor convallis in aliquet proin a eu ac ac dui .  Phasellus hendrerit nunc mi iaculis ante  arcu aliquet vestibulum nunc senectus nam dis eget nunc id lobortis.  Nulla pretium ante eros lacus pede blandit malesuada nonummy odio. Id elementum vestibulum vel. Habitant semper vel parturient ante tempus nec ipsum adipiscing.  Lacus nisl placerat odio volutpat euismod ac. Nec ac nunc libero curae dolor lorem mauris sed nec semper phasellus sed. Faucibus metus blandit morbi metus vulputate ut magna. </p>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/shoes03.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/shoes04.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:50%" >
+        <p style="font-weight: bold;">Detalles</p><table class="art-article" border="0" cellspacing="0" cellpadding="0" style="width: 100%;"><tbody><tr><td> a. </td><td>Nisi.</td></tr><tr><td>Donec id. </td><td>Velit.</td></tr><tr><td>Sem ante.</td><td>Orci aliquam. </td></tr><tr><td>Colores</td><td>Egestas turpis ut.</td></tr><tr><td>Nec. </td><td>14, 15, 16, 17+</td></tr></tbody></table>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%" >
+        <p><span style="font-weight: bold;"><a href="Catalog.html" rel="catalog">« Atrás To Catálogo</a></span></p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="10" category="2" title="Women's Purse" alias="article-9" path="/catalogo/womens-purse">
+            <![CDATA[<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/purse01.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/purse02.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:50%" >
+        <p>Non in auctor suscipit cras at eget dis sed phasellus.  Tempus phasellus pretium metus praesent tortor ligula maecenas iaculis euismod nisi ipsum amet nulla dolor sed. Leo et eu magna felis ipsum porta eros maecenas tellus eleifend.  Nulla mi etiam sed placerat. Vulputate ut lorem cubilia rutrum iaculis arcu viverra tincidunt.  Nullam et a neque urna eget nisl elementum .  Ac interdum amet quis dolor turpis elit aliquam eget vestibulum nullam.  Sagittis parturient aliquam enim felis gravida nulla. </p>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/purse03.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:25%" >
+        <img alt="" width="150" src="images/template-content/purse04.jpg" height="150">
+    </div><div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:50%" >
+        <p style="font-weight: bold;">Detalles</p><table class="art-article" border="0" cellspacing="0" cellpadding="0" style="width: 100%;"><tbody><tr><td>Et. </td><td>Ut. </td></tr><tr><td>Eget in. </td><td>Magna.</td></tr><tr><td>Placerat.</td><td>Vestibulum sed.</td></tr><tr><td>Colores</td><td>Ultrices curabitur. </td></tr><tr><td>Nibh.</td><td> in. </td></tr></tbody></table>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%" >
+        <p><span style="font-weight: bold;"><a href="Catalog.html" rel="catalog">« Atrás To Catálogo</a></span></p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="11" category="2" title="Noticias" alias="article-10" path="/home">
+            <![CDATA[<article class="art-post art-article">
+                                <h2 class="art-postheader"><a href="#">Latest Update</a>
+                                </h2>
+                                                <div class="art-postheadericons art-metadata-icons">
+                    <span class="art-postdateicon"></span>
+                     | <span class="art-postauthoricon"> <a href="#" title="Posts by Admin">Admin</a></span>
+                     | <span class="art-postpdficon"></span>
+                     | <span class="art-postprinticon"></span>
+                     | <span class="art-postemailicon"></span>
+                     | <span class="art-postediticon"></span>
+                                    </div>
+                <div class="art-postcontent art-postcontent-0 clearfix" >
+<div class="art-content-layout">
+<div class="art-content-layout-row">
+<div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%">
+<p><span style="font-weight: bold;">Cras platea eros pellentesque ut eros viverra a tellus phasellus urna eget sagittis ipsum diam.</span></p>
+<p>Vivamus massa eget quam odio sodales in etiam nisl sed. Tincidunt sodales blandit phasellus magna enim mauris nec mauris placerat enim consectetuer sit posuere cras. Commodo pede elementum amet ac in ipsum eget eget magna venenatis. Sed posuere ultrices ante. Dui venenatis phasellus vestibulum in etiam aenean ut enim ante.</p>
+</div>
+</div>
+</div><br /><a href="#">Read more...</a>
+                </div>
+                                <div class="art-postfootericons art-metadata-icons">
+                    <span class="art-postcategoryicon">Category: No Category</span>
+                     | <span class="art-posttagicon">Tags: <a href="#" title="link">link</a>, <a href="#" title="visited link" class="visited">visited</a>, <a href="#" title="hovered link" class="hover">hovered</a></span>
+                     | <span class="art-postcommentsicon"><a href="#" title="Comments">No Comments &#187;</a></span>
+                                    </div>
+                </article>
+<article class="art-post art-article">
+                                <h2 class="art-postheader"><a href="#">New Products Available</a>
+                                </h2>
+                                                <div class="art-postheadericons art-metadata-icons">
+                    <span class="art-postdateicon"></span>
+                     | <span class="art-postauthoricon"> <a href="#" title="Posts by Admin">Admin</a></span>
+                     | <span class="art-postpdficon"></span>
+                     | <span class="art-postprinticon"></span>
+                     | <span class="art-postemailicon"></span>
+                     | <span class="art-postediticon"></span>
+                                    </div>
+                <div class="art-postcontent art-postcontent-1 clearfix" >
+<div class="art-content-layout">
+<div class="art-content-layout-row">
+<div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%">
+<p>In at tortor porta vivamus id commodo adipiscing turpis. Cubilia adipiscing mauris suscipit cursus adipiscing. A quis sed fames suspendisse libero sit. Fringilla eros mi est duis odio ut sem tempor placerat eget. Mauris lorem vestibulum tellus eu. Tempus mi diam neque tincidunt dolor mauris. Ultricies blandit cursus dolor hac in et iaculis. Lobortis eu condimentum lobortis eu aenean id sapien sit et.</p>
+</div>
+</div>
+</div><br /><a href="#">Read more...</a>
+                </div>
+                                <div class="art-postfootericons art-metadata-icons">
+                    <span class="art-postcategoryicon">Category: No Category</span>
+                     | <span class="art-posttagicon">Tags: <a href="#" title="link">link</a>, <a href="#" title="visited link" class="visited">visited</a>, <a href="#" title="hovered link" class="hover">hovered</a></span>
+                     | <span class="art-postcommentsicon"><a href="#" title="Comments">No Comments &#187;</a></span>
+                                    </div>
+                </article>
+<article class="art-post art-article">
+                                <h2 class="art-postheader"><a href="#">Increase In Sales</a>
+                                </h2>
+                                                <div class="art-postheadericons art-metadata-icons">
+                    <span class="art-postdateicon"></span>
+                     | <span class="art-postauthoricon"> <a href="#" title="Posts by Admin">Admin</a></span>
+                     | <span class="art-postpdficon"></span>
+                     | <span class="art-postprinticon"></span>
+                     | <span class="art-postemailicon"></span>
+                     | <span class="art-postediticon"></span>
+                                    </div>
+                <div class="art-postcontent art-postcontent-2 clearfix" >
+<div class="art-content-layout">
+<div class="art-content-layout-row">
+<div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%">
+<p>Id nullam diam mi eget tellus tincidunt imperdiet est nullam mi proin eget. Ante phasellus fusce vitae velit ac sit ac aptent ante vehicula. Vitae eget ipsum vitae a a phasellus felis nec. Urna faucibus eros et nam nisl sed aenean quis nunc vel mollis mauris nam vivamus et eget volutpat. Nec mollis purus quis posuere duis velit donec morbi. Lorem auctor lobortis sed conubia fringilla quam.</p>
+</div>
+</div>
+</div><br /><a href="#">Read more...</a>
+                </div>
+                                <div class="art-postfootericons art-metadata-icons">
+                    <span class="art-postcategoryicon">Category: No Category</span>
+                     | <span class="art-posttagicon">Tags: <a href="#" title="link">link</a>, <a href="#" title="visited link" class="visited">visited</a>, <a href="#" title="hovered link" class="hover">hovered</a></span>
+                     | <span class="art-postcommentsicon"><a href="#" title="Comments">No Comments &#187;</a></span>
+                                    </div>
+                </article>
+]]>
+        </article>
+        <article id="12" category="2" title="Pricing" alias="article-11" path="/pricing">
+            <![CDATA[<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%" >
+        <p><span style="font-weight: bold;">Odio mi blandit cubilia.</span></p><p>Metus lacus iaculis cum turpis in  luctus pretium orci. Sit posuere tellus eget blandit nibh nullam aliquet rhoncus mi sed suspendisse hendrerit libero curabitur odio. Tristique quis interdum viverra mi turpis curae vulputate tellus. </p><table class="art-article" border="0" cellspacing="0" cellpadding="0" style="width: 100%;"><tbody><tr><td><span style="font-weight: bold;">Primis.</span></td><td><span style="font-weight: bold;">Eget.</span></td></tr><tr><td>Sed a orci amet.</td><td>$199</td></tr><tr><td>Phasellus. </td><td>$259</td></tr><tr><td>Nunc sagittis. </td><td>$159</td></tr><tr><td>In augue leo.</td><td>$349</td></tr><tr><td>Ligula risus.</td><td>$399</td></tr></tbody></table>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="13" category="2" title="Testimonials" alias="article-12" path="/testimonials">
+            <![CDATA[<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%" >
+        <h3>That is exactly what I need</h3><p>In orci potenti sed mi risus nullam donec eget sem. A ac pellentesque donec sapien metus suscipit pede in hendrerit metus tincidunt eu per nisl.  Ac  vel ut ac suscipit ante ac nec erat sociosqu eu morbi ligula tempor et. Sed faucibus nec non pede dictum nisl vel nunc fusce nullam pede. Id eget nisi non lacus nullam nisi feugiat sed. Eu id justo sit tortor morbi tincidunt ullamcorper ut fusce non ultricies augue nisl ullamcorper at. Sed tempor ultricies nonummy integer congue amet orci. Adipiscing porttitor ante sit nunc adipiscing ac. Metus malesuada felis.  Blandit sed dictumst habitasse viverra jnteger nec et sit sit mi. Luctus fringilla fermentum feugiat morbi quis. Sapien ante metus eu orci ultricies eu auctor ipsum  enim. Viverra egestas eu neque odio egestas.</p><p><span style="font-style: italic;">Donec et ut posuere felis.</span></p><br><h3>Very helpful product catalog</h3><p>Egestas. Nisi tempus quis vestibulum justo ullamcorper vitae metus pretium et nisi eu eget orci et sapien est. Bibendum fusce auctor purus orci pellentesque. Odio hendrerit felis et in ut vivamus. Nisl lacus fringilla phasellus ut ac non elit tincidunt fusce. Donec ullamcorper vivamus consectetuer in nunc. Mollis rhoncus imperdiet in viverra curae sed. Praesent velit dui adipiscing fusce. Odio odio et pretium mi in amet feugiat quis non posuere purus eu sem. Consectetuer orci arcu netus in mollis id.  Non sed justo nulla eu non nunc orci semper. Nullam arcu dui tortor pharetra etiam elit nisl mi.</p><p><span style="font-style: italic;">Imperdiet eleifend  nunc.</span></p><br><h3>Interesting resource</h3><p>Duis fermentum in euismod gravida tristique vestibulum in scelerisque velit ultricies ligula dolor habitant nibh mauris vestibulum tempus quis placerat viverra lacus rutrum sagittis phasellus fringilla posuere aliquam pede adipiscing ac leo nisi tortor in augue id pede fringilla rutrum aliquam quisque porttitor conubia blandit jnteger nulla odio ac quis tortor nunc varius posuere pretium pellentesque sem viverra turpis ac  suspendisse sociosqu nonummy a nulla sapien amet hendrerit quis curabitur turpis congue vitae.</p><p><span style="font-style: italic;">Volutpat cras a mollis amet.</span></p><br>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="14" category="2" title="Contact Us" alias="article-13" path="/contacts">
+            <![CDATA[<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 15px;padding-left: 15px; width:100%" >
+        <p><span style="font-weight: bold;">Turpis pellentesque aliquam rutrum ligula donec et viverra et lorem lacus vestibulum purus sed.  Ante blandit a quisque nisl curabitur. </span></p><p>Euismod pellentesque magna neque hendrerit pede aenean. Sagittis erat eros erat lacus nisi nec magna ultrices  pede eleifend libero mollis egestas venenatis ac mattis. Ultrices interdum  sed at tempus commodo odio a eu nunc at montes. Bibendum metus donec lacus.  Etiam ac urna porttitor  augue ullamcorper amet at tellus sed sed. Nunc pretium et turpis tincidunt magna elit. </p><h3>5th Season, Inc.</h3><p>Nisl accumsan pede felis eros.<br>  Mollis a aliquam. </p><p>Quis posuere tortor ut.<br>  Semper senectus ipsum. </p><p>A.<a href="http://www.5thseason.com">http://www.5thseason.com</a><br>  A.<a href="mailto%3amyemail%405thseason.com">myemail@5thseason.com</a></p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+    </articles>
+    <menus>
+        <menu id="1" name="ct-horizontal-menu" title="Content / Horizontal Menu"/>
+        <menu id="2" name="ct-vertical-menu" title="Content / Vertical Menu"/>
+        <menu id="3" name="ct-special-menu" title="Content / Special Menu"/>
+    </menus>
+    <menuitems>
+        <menuitem id="1" menu="ct-horizontal-menu" title="Principal" alias="ct-menu-item-1" path="/principal" menutype="hmenu" type="single-article" article="4" showTitle="no" category="1" default="1"/>
+        <menuitem id="2" menu="ct-vertical-menu" title="Principal" alias="ct-menu-item-2" path="/principal" menutype="vmenu" type="single-article" article="4" showTitle="no" category="1"/>
+        <menuitem id="3" menu="ct-horizontal-menu" title="Catálogo" alias="ct-menu-item-3" path="/catalogo" menutype="hmenu" type="single-article" article="5" showTitle="yes" category="1"/>
+        <menuitem id="4" menu="ct-vertical-menu" title="Catálogo" alias="ct-menu-item-4" path="/catalogo" menutype="vmenu" type="single-article" article="5" showTitle="yes" category="1"/>
+        <menuitem id="5" menu="ct-horizontal-menu" title="Men's T-Shirt" alias="ct-menu-item-5" path="/catalogo/mens-t-shirt" menutype="hmenu" type="single-article" parent="3" article="6" showTitle="yes" category="1"/>
+        <menuitem id="6" menu="ct-vertical-menu" title="Men's T-Shirt" alias="ct-menu-item-6" path="/catalogo/mens-t-shirt" menutype="vmenu" type="single-article" parent="4" article="6" showTitle="yes" category="1"/>
+        <menuitem id="7" menu="ct-horizontal-menu" title="Men's Jeans" alias="ct-menu-item-7" path="/catalogo/mens-jeans" menutype="hmenu" type="single-article" parent="3" article="7" showTitle="yes" category="1"/>
+        <menuitem id="8" menu="ct-vertical-menu" title="Men's Jeans" alias="ct-menu-item-8" path="/catalogo/mens-jeans" menutype="vmenu" type="single-article" parent="4" article="7" showTitle="yes" category="1"/>
+        <menuitem id="9" menu="ct-horizontal-menu" title="Women's Shirt" alias="ct-menu-item-9" path="/catalogo/womens-shirt" menutype="hmenu" type="single-article" parent="3" article="8" showTitle="yes" category="1"/>
+        <menuitem id="10" menu="ct-vertical-menu" title="Women's Shirt" alias="ct-menu-item-10" path="/catalogo/womens-shirt" menutype="vmenu" type="single-article" parent="4" article="8" showTitle="yes" category="1"/>
+        <menuitem id="11" menu="ct-horizontal-menu" title="Women's Shoes" alias="ct-menu-item-11" path="/catalogo/womens-shoes" menutype="hmenu" type="single-article" parent="3" article="9" showTitle="yes" category="1"/>
+        <menuitem id="12" menu="ct-vertical-menu" title="Women's Shoes" alias="ct-menu-item-12" path="/catalogo/womens-shoes" menutype="vmenu" type="single-article" parent="4" article="9" showTitle="yes" category="1"/>
+        <menuitem id="13" menu="ct-horizontal-menu" title="Women's Purse" alias="ct-menu-item-13" path="/catalogo/womens-purse" menutype="hmenu" type="single-article" parent="3" article="10" showTitle="yes" category="1"/>
+        <menuitem id="14" menu="ct-vertical-menu" title="Women's Purse" alias="ct-menu-item-14" path="/catalogo/womens-purse" menutype="vmenu" type="single-article" parent="4" article="10" showTitle="yes" category="1"/>
+        <menuitem id="15" menu="ct-horizontal-menu" title="Noticias" alias="ct-menu-item-15" path="/home" menutype="hmenu" type="category-blog-layout" category="1"/>
+        <menuitem id="16" menu="ct-vertical-menu" title="Noticias" alias="ct-menu-item-16" path="/home" menutype="vmenu" type="category-blog-layout" category="1"/>
+        <menuitem id="17" menu="ct-horizontal-menu" title="Pricing" alias="ct-menu-item-17" path="/pricing" menutype="hmenu" type="single-article" article="12" showTitle="yes" category="1"/>
+        <menuitem id="18" menu="ct-vertical-menu" title="Pricing" alias="ct-menu-item-18" path="/pricing" menutype="vmenu" type="single-article" article="12" showTitle="yes" category="1"/>
+        <menuitem id="19" menu="ct-horizontal-menu" title="Testimonials" alias="ct-menu-item-19" path="/testimonials" menutype="hmenu" type="single-article" article="13" showTitle="yes" category="1"/>
+        <menuitem id="20" menu="ct-vertical-menu" title="Testimonials" alias="ct-menu-item-20" path="/testimonials" menutype="vmenu" type="single-article" article="13" showTitle="yes" category="1"/>
+        <menuitem id="21" menu="ct-horizontal-menu" title="Contact Us" alias="ct-menu-item-21" path="/contacts" menutype="hmenu" type="single-article" article="14" showTitle="yes" category="1"/>
+        <menuitem id="22" menu="ct-vertical-menu" title="Contact Us" alias="ct-menu-item-22" path="/contacts" menutype="vmenu" type="single-article" article="14" showTitle="yes" category="1"/>
+        <menuitem id="23" menu="ct-special-menu" title="Special Blog Page" alias="ct-menu-item-23" menutype="menu" type="category-blog-layout" category="1"/>
+        <menuitem id="24" menu="ct-special-menu" title="Special Single Page" alias="ct-menu-item-24" menutype="menu" type="single-article" showTitle="yes" category="1"/>
+    </menuitems>
+    <modules>
+        <module id="1" title="Content / Horizontal Menu" showTitle="true" position="user3" type="menu" menu="ct-horizontal-menu"/>
+        <module id="2" title="Navigation" showTitle="true" position="left" style="art-vmenu" menu="ct-vertical-menu" type="menu"/>
+        <module id="3" title="Search" showTitle="true" position="left" type="custom">
+            <![CDATA[<div>
+  <form action="#" class="art-search" method="get" name="searchform">
+    <input type="text" value="" name="s" />
+    <input type="submit" value="Buscar" name="search" class="art-search-button" />
+  </form>
+</div>]]>
+        </module>
+        <module id="4" title="Advertising" showTitle="true" position="left" type="custom">
+            <![CDATA[<div style="padding: 10px; border: 1px solid #B7BCBD"><p><a href="/catalog/mens-jeans"><span style="font-size: 16px; font-weight: bold;">50% OFF JEANS!</span></a></p><br><p>Senectus tristique curae feugiat in cras venenatis est. Laoreet justo justo  lacus fermentum pellentesque praesent.</p><br><p><a href="/catalog/mens-jeans">Click here</a><br>      Vestibulum suscipit in mauris.</p></div>]]>
+        </module>
+        <module id="5" title="Footer" showTitle="false" position="copyright" type="custom">
+            <![CDATA[
+<a title="RSS" class="art-rss-tag-icon" style="position:absolute;bottom:8px;left:6px" href="#"></a><div style="position:relative;padding-left:10px;padding-right:10px"><p>Vulputate metus.<br> In lorem blandit ut nunc quam. </p></div>
+]]>
+        </module>
+    </modules>
+    <parameters>
+        <parameter id="1" name="blogLayoutType" value="artisteer"/>
+    </parameters>
+</data>
