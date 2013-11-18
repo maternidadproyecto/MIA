@@ -1,0 +1,23 @@
+/*
+Copyright (c) 2010, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.com/yui/license.html
+version: 2.8.1
+*/
+.artwijmomenucontainer li{
+  list-style:none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.artwijmomenucontainer ul{
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.wijmo-wijmenu-text {
+  white-space: nowrap !important;
+}
+
+.wijmo-wijmenu .wijmo-wijmenu-parent .wijmo-wijmenu-child {
+  width: auto !important;
+}

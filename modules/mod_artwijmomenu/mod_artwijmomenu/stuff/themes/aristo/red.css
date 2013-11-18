@@ -1,0 +1,32 @@
+.wijmo-wijmenu {
+    background: -moz-linear-gradient(center top , rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0)) repeat scroll 0 0 #5B8122 !important;
+}
+
+.wijmo-wijmenu-list {
+    background: -moz-linear-gradient(center top , rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0)) repeat scroll 0 0 #5B8122 !important;
+}
+
+.ui-state-focus {
+  -moz-box-shadow: 0 0 5px #6C9233 !important;
+  background: -moz-linear-gradient(center top , rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0)) repeat scroll 0 0 #FFFFFF !important;
+}
+
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus
+{
+    border: 1px solid #7096ab !important;
+    background: #5B8122 url(images/ui-bg_highlight-hard_80_5B8122_1x100.png) 50% 50% repeat-x !important;
+    background: #5B8122 linear-gradient(top, rgba(255,255,255,0.6), rgba(255,255,255,0)) !important;
+    background: #5B8122 -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.6)), to(rgba(255,255,255,0))) !important;
+    background: #5B8122 -moz-linear-gradient(top, rgba(255,255,255,0.6), rgba(255,255,255,0)) !important; /*    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#CCFFFFFF, endColorstr=#00FFFFFF);     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#CCFFFFFF, endColorstr=#00FFFFFF)"; */
+    font-weight: bold;
+    color: #313131;
+    -moz-box-shadow: 0 0 5px #5B8122 !important;
+    -webkit-box-shadow: 0px 0px 8px #5B8122 !important;
+    box-shadow: 0px 0px 8px #5B8122 !important;
+}
+.ui-state-hover
+{
+    -moz-box-shadow: 0px 0px 8px #5B8122, inset 0px 1px 0px #fff !important;
+    -webkit-box-shadow: 0px 0px 8px #5B8122, inset 0px 1px 0px #fff !important;
+    box-shadow: 0px 0px 8px #5B8122, inset 0px 1px 0px #fff !important;
+}

@@ -1,0 +1,1 @@
+var awmJquery = jQuery.noConflict();

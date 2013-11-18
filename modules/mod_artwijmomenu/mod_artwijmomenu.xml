@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="module" method="upgrade">
+	<name>Art Wijmo Menu</name>
+	<author>Artetics</author>
+	<creationDate>December 2010</creationDate>
+	<copyright>Artetics</copyright>
+	<license>http://www.gnu.org/licenses/gpl-3.0.html GNU/GPL</license>
+	<authorEmail>info@artetics.com</authorEmail>
+	<authorUrl>www.artetics.com.com</authorUrl>
+	<version>1.8.3</version>
+	<description>Art Wijmo Menu is menu module with various options</description>
+	<files>
+		<filename module="mod_artwijmomenu">mod_artwijmomenu.php</filename>
+		<filename>mod_artwijmomenu/helpers/artwijmomenuhelper.php</filename>
+		<folder>mod_artwijmomenu/stuff</folder>
+		<folder>mod_artwijmomenu/templates</folder>
+	</files>
+	<params>
+    <param name="moduleclass_sfx" type="text" default="" label="Module Class Suffix" description="Module Class Suffix" />
+    <param name="menuType" type="mos_menu" default="mainmenu" label="Menu" description="Menu" />
+		<param name="orientation" type="list" default="horizontal" label="Menu orientation" description="Menu orientation">
+	      <option value="horizontal">horizontal</option>
+	      <option value="vertical">vertical</option>
+		</param>
+    <param name="trigger" type="list" default="mouseenter" label="Menu trigger" description="Menu trigger">
+	      <option value="mouseenter">mouse enter</option>
+	      <option value="click">click</option>
+	      <option value="dblclick">double click</option>
+		</param>
+		<param name="parentClickable" type="list" default="0" label="Parent menu item clickable" description="Parent menu item clickable">
+		  <option value="1">yes</option>
+		  <option value="0">no</option>
+		</param>
+    <param name="mode" type="list" default="default" label="Mode" description="Mode. Sliding mode is only for vertical orientation">
+	      <option value="default">default</option>
+	      <option value="sliding">sliding</option>
+		</param>
+    <param name="theme" type="list" default="1" label="Theme" description="Theme">
+      <option value="1">default (Aristo theme)</option>
+      <option value="2">blue-black (Wijmo Rocket Theme)</option>
+    </param>
+    <param name="loadJQuery" type="list" default="1" label="Load jQuery library" description="Load jQuery javascript library? Choose no if it is always included in your pages">
+      <option value="1">yes</option>
+      <option value="0">no</option>
+    </param>
+	</params>
+	<config>
+	<fields name="params">
+		<fieldset name="basic">
+      <field name="moduleclass_sfx" type="text" default="" label="Module Class Suffix" description="Module Class Suffix" />
+			<field name="menuType" type="mos_menu" default="mainmenu" label="Menu" description="Menu" />
+		<field name="orientation" type="list" default="horizontal" label="Menu orientation" description="Menu orientation">
+	      <option value="horizontal">horizontal</option>
+	      <option value="vertical">vertical</option>
+		</field>
+		<field name="trigger" type="list" default="mouseenter" label="Menu trigger" description="Menu trigger">
+			  <option value="mouseenter">mouse enter</option>
+			  <option value="click">click</option>
+			  <option value="dblclick">double click</option>
+		</field>
+		<field name="parentClickable" type="list" default="0" label="Parent menu item clickable" description="Parent menu item clickable">
+		  <option value="1">yes</option>
+		  <option value="0">no</option>
+		</field>
+		<field name="mode" type="list" default="default" label="Mode" description="Mode. Sliding mode is only for vertical orientation">
+			  <option value="default">default</option>
+			  <option value="sliding">sliding</option>
+			</field>
+    <field name="theme" type="list" default="1" label="Theme" description="Theme">
+      <option value="1">default (Aristo theme)</option>
+      <option value="2">blue-black (Wijmo Rocket Theme)</option>
+    </field>
+		<field name="loadJQuery" type="list" default="1" label="Load jQuery library" description="Load jQuery javascript library? Choose no if it is always included in your pages">
+		  <option value="1">yes</option>
+		  <option value="0">no</option>
+		</field>
+		</fieldset>
+	</fields>
+	</config>
+</install>

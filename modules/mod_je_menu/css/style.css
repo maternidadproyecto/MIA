@@ -1,0 +1,20 @@
+ul.sdt_menu{
+	background: #eaeaea;
+	background: -moz-linear-gradient(top, #ffffff 1%, #eaeaea 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#ffffff), color-stop(100%,#eaeaea));
+	background: -webkit-linear-gradient(top, #ffffff 1%,#eaeaea 100%);
+	background: -o-linear-gradient(top, #ffffff 1%,#eaeaea 100%);
+	background: -ms-linear-gradient(top, #ffffff 1%,#eaeaea 100%);
+	background: linear-gradient(top, #ffffff 1%,#eaeaea 100%);
+	box-shadow: 0px 0px 0px 1px rgba(155,155,155,0.3), 1px 0px 0px 0px rgba(255,255,255,0.9) inset, 0px 2px 2px rgba(0,0,0,0.1);}
+
+ul.sdt_menu li.active span span.sdt_link { color:#d00}
+ul.sdt_menu li:hover span.sdt_active{background:#F4F4F4;box-shadow: 0px 0px 0px 1px rgba(155,155,155,0.3), 1px 0px 0px 0px rgba(255,255,255,0.9) inset, 0px 2px 2px rgba(0,0,0,0.1);}
+ul.sdt_menu li span span.sdt_link{color: #777;text-shadow: 1px 1px 1px #fff;text-shadow: 1px 1px 1px rgba(255,255,255,0.8);}
+ul.sdt_menu li:hover span span.sdt_link {color: #d00;}
+ul.sdt_menu li span span.sdt_descr{color:#999; }
+/* Sub Menu */
+ul.sdt_menu li ul.sdt_box{background:#F8F8F8;box-shadow: 0px 0px 0px 1px rgba(155,155,155,0.3), 1px 0px 0px 0px rgba(255,255,255,0.9) inset, 0px 2px 2px rgba(0,0,0,0.1);}
+ul.sdt_menu li ul.sdt_box a{color:#777;}
+ul.sdt_menu li ul.sdt_box a:hover{color:#d00;}
+ul.sdt_menu li ul.sdt_box li.active a{color:#d00;}
